@@ -4,7 +4,7 @@ public class MainClass {
 
         int i =3;
         int j=6;
-        while(9>3){}
+//        while(9>3){}
     }
 }
 
